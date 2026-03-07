@@ -29,6 +29,7 @@ function renderLeads() {
 function clearInputField() {
     let inputField = document.getElementById("input-el");
     inputField.value = "";
+    
 
 }
 
